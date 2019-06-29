@@ -1,6 +1,6 @@
-##DataCamp Projects
+DataCamp Projects
 
-This is my collection of completed DataCamp Projects which give me hands-on experience solving real-world problems and data fluency as well as helping me to build up my project’s portfolio.
+This is my personal collection of completed DataCamp Projects which give me hands-on experience solving real-world problems and data fluency as well as helping me to build up my project’s portfolio.
 
 All these projects are based on Python and cover different topics such as import & cleaning data, data manipulation & visualisation, probability & statistics, among others.  
 
